@@ -23,17 +23,13 @@ for(int i=0;;i++){
 
 }
 
-
-
-
-
  printf("\nEnter the value of Angle (0-90) =");
 
-   scanf("%lf",&theta);
+ scanf("%lf",&theta);
 
  printf("\nEnter the Distace between two slits(micro meter) =");
 
-   scanf("%lf",&d);
+ scanf("%lf",&d);
 
 
     double angle=theta*(pie/180);
